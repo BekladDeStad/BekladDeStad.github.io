@@ -94,7 +94,7 @@ body {
   .container4::before {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #e6007e;
     position: absolute;
     top: -30px;
@@ -105,7 +105,7 @@ body {
   .container4::after {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #e6007e;
     position: absolute;
     bottom: -30px;
@@ -127,7 +127,7 @@ body {
   .container5::before {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #EB600A;
     position: absolute;
     top: -30px;
@@ -138,7 +138,7 @@ body {
   .container5::after {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #EB600A;
     position: absolute;
     bottom: -30px;
@@ -160,7 +160,7 @@ body {
   .container6::before {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: white;
     position: absolute;
     top: -30px;
@@ -171,7 +171,7 @@ body {
   .container6::after {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: white;
     position: absolute;
     bottom: -30px;
@@ -193,7 +193,7 @@ body {
   .container7::before {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #0074BE;
     position: absolute;
     top: -30px;
@@ -204,7 +204,7 @@ body {
   .container7::after {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #0074BE;
     position: absolute;
     bottom: -30px;
@@ -226,7 +226,7 @@ body {
   .container8::before {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #0074BE;
     position: absolute;
     top: -30px;
@@ -237,7 +237,7 @@ body {
   .container8::after {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #0074BE;
     position: absolute;
     bottom: -30px;
@@ -259,7 +259,7 @@ body {
   .container9::before {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #40AB35;
     position: absolute;
     top: -30px;
@@ -270,7 +270,7 @@ body {
   .container9::after {
     display: block;
     content: " ";
-    height: 50px;
+    height: 100px;
     background-color: #40AB35;
     position: absolute;
     bottom: -30px;

@@ -19,6 +19,21 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="70">
 
+    <script>
+        // Check screen size on page load
+        function checkScreenSize() {
+          if (window.innerWidth >= 768) { // Change the value according to your desired breakpoint
+            window.location.href = "desktop.html";
+          } 
+        }
+      
+        // Call the function on page load
+        window.onload = checkScreenSize;
+      
+        // Check screen size on window resize
+        window.onresize = checkScreenSize;
+      </script>
+
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg py-1 sticky-top navbar-light bg-light">
         <div class="container">
